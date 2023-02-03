@@ -1,2 +1,2 @@
 # Vite-vue
-Vue + Vite + DevUI
+Vue + Vite 
